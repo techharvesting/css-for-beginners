@@ -9,4 +9,4 @@ Preview of the website we make: [https://techharvesting.github.io/css-for-beginn
 #### You can view the playlist here:[https://www.youtube.com/playlist?list=PL1djMrbwfVoVcQzoLlHobvc8YzTPk-B_M](https://www.youtube.com/playlist?list=PL1djMrbwfVoVcQzoLlHobvc8YzTPk-B_M)
 
 
-#### Make sure you choose the correct branch to see the code.
+#### Make sure you choose the correct commit to see the code for a particular video.
